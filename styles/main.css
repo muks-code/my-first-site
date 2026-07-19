@@ -2,8 +2,14 @@ body{
     font-family: 'Courier New', Courier, monospace;
     color: rgb(72, 202, 228);
     background-color: rgb(11, 19, 43);
+
+    max-width: 600px;   
+    margin: 40px auto;  
+    padding: 0 20px;    
+    height: 100vh;
 }
-.rightcontainer{
+.container{
+    height: 28vh;
     margin:10px;
     text-align: center;
     border-radius : 19px ;
@@ -11,6 +17,7 @@ body{
     border: 12px solid rgb(72, 202, 228)
 }
 .info{
+    height: 28vh;
     margin: 10px;
     text-align: center;
     border-radius : 19px ;
@@ -24,6 +31,7 @@ body{
     border: 12px solid rgb(72, 202, 228)
 }
 .lan{
+    height: 28vh;
     margin: 10px;
     border-radius : 19px ;
     background-color: rgb(74, 85, 104);
