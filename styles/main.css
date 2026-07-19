@@ -1,0 +1,37 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(72, 202, 228);
+    background-color: rgb(11, 19, 43);
+}
+.rightcontainer{
+    margin:10px;
+    text-align: center;
+    border-radius : 19px ;
+    background-color: rgb(74, 85, 104);
+    border: 12px solid rgb(72, 202, 228)
+}
+.info{
+    margin: 10px;
+    text-align: center;
+    border-radius : 19px ;
+    background-color: rgb(74, 85, 104);
+    border: 12px solid rgb(72, 202, 228)
+}
+.about{
+    margin: 10px;
+    border-radius : 19px ;
+    background-color: rgb(74, 85, 104);
+    border: 12px solid rgb(72, 202, 228)
+}
+.lan{
+    margin: 10px;
+    border-radius : 19px ;
+    background-color: rgb(74, 85, 104);
+    border: 12px solid rgb(72, 202, 228)
+}
+.mylan{
+    text-align: center;
+    margin: 10px;
+    border-radius : 19px ;
+    border: 12px solid rgb(72, 202, 228)
+}
